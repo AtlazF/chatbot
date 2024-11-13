@@ -1,7 +1,0 @@
-[theme]
-base="dark"
-primaryColor="green"  # Cambiado de blue a green
-backgroundColor="lightgreen"  # Cambiado de skyblue a un verde claro
-secondaryBackgroundColor="lightyellow"  # Cambiado de fdb466 a un color más suave que combina con verde
-textColor="371d01"  # Manteniendo el color de texto original
-font="sans serif"
