@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="green"
+backgroundColor="lightgreen"
+secondaryBackgroundColor="lightyellow"
+textColor="371d01"
+font="sans serif"
